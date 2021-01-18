@@ -96,8 +96,8 @@ controlada por estados.
 
 ## Data de entrega
 
-  - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Serão `2` dias de projeto.
+  - Data de entrega para avaliação final do projeto: `26/01/2021 - 14:00h`.
 
 # Instruções para entregar seu projeto
 
@@ -738,7 +738,7 @@ Todos os componentes que recebem props devem ter suas proptypes corretamente dec
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o
 formulário. Leva menos de 3 minutos!
 
-Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_name=Turma%208)
 
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos
 aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não
