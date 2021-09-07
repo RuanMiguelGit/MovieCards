@@ -23,7 +23,7 @@ class MovieLibrary extends React.Component {
 
   onAddItem(newMovie) {
     const { movies } = this.state;
-    const film = movies;
+    const film = movies
     const newItem = newMovie;
     const newItems = [...film, newItem];
     this.setState({

@@ -1,9 +1,11 @@
 {
+  "homepage": "http://RuanMiguelGit.github.io/MovieCards",
   "name": "sd-0x-project-movie-cards-library-stateful",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "acorn": ">=7.1.1",
+    "gh-pages": "^3.2.3",
     "minimist": ">=1.2.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -14,6 +16,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --verbose=true",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint:styles": "npx stylelint '**/*.css'",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx"
   },
